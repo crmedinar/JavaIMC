@@ -10,12 +10,13 @@ package migit;
  * @author dam1a
  */
 public class MiGit {
-
+    private int a;
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        System.out.println("Hi dud");
+        System.out.println("Ahora esta");
     }
     
 }
